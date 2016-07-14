@@ -1,0 +1,20 @@
+{
+  "name": "frescojs-light",
+  "homepage": "https://github.com/qodeboy/frescojs-light",
+  "description": "Unofficial bower distribution of FrescoJS Free (Light) - http://www.frescojs.com/",
+  "main": "js/fresco/fresco.js",
+  "keywords": [
+    "fresco"
+  ],
+  "authors": [
+    "http://www.frescojs.com/"
+  ],
+  "license": "http://www.frescojs.com/license",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
